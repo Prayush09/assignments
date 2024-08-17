@@ -10,6 +10,4 @@ function sleep(milliseconds) {
     })
 }
 
-
-sleep(10000).then(()=>console.log(10));
 module.exports = sleep;
